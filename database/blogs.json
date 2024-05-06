@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Focus",
+        "slug": "Focus is the best book",
+        "content": "Muvafaqiyat siri bu diqqat",
+        "tags": [
+            "diqqat",
+            "success"
+        ],
+        "id": 1
+    },
+    {
+        "title": "Iyman",
+        "slug": "Focus is the best book",
+        "content": "Muvafaqiyat siri bu diqqat",
+        "tags": [
+            "diqqat",
+            "success"
+        ],
+        "id": 2
+    }
+]
